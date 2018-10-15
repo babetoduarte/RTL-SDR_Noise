@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 '''
-RTL-SDR Noise Floor Level Recoring, v1.0
+RTL-SDR Noise Floor Level Recording, v1.0
 by Jorge Duarte, KI5ANA // HJ3JDG
 email: KI5ANA@arrl.org // HJ3JDG@gmail.com
 
 LICENSE: 
 
-    RTL-SDR Noise Floor Level Recoring, v1.0
+    RTL-SDR Noise Floor Level Recording, v1.0
     Copyright (C) 2018  Jorge A. Duarte, KI5ANA
 
     This program is free software: you can redistribute it and/or modify
@@ -113,7 +113,7 @@ def main(argv):
         elif opt == "-w":
             print("\n\t\t GNU-GPLv3 LICENSE: \n")
             print('''
-            RTL-SDR Noise Floor Level Recoring, v1.0
+            RTL-SDR Noise Floor Level Recording, v1.0
             Copyright (C) 2018  Jorge A. Duarte, KI5ANA
 
             This program is free software: you can redistribute it and/or modify
