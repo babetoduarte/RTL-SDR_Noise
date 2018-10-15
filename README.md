@@ -1,4 +1,4 @@
-# RTL-SDR Noise Floor Level Recoring 
+# RTL-SDR Noise Floor Level Recording 
 
 by Jorge Duarte, KI5ANA // HJ3JDG
 
